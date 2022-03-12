@@ -1,0 +1,17 @@
+== cicdgen Guide
+
+* link:Home.adoc[Wiki Home]
+
+* cicdgen CLI
+
+** link:cicdgen-cli.adoc[cicdgen CLI]
+** link:usage-example.adoc[Usage example]
+
+* cicdgen Schematics
+
+** link:cicdgen-schematics.adoc[cicdgen Schematics]
+*** link:merge-strategies.adoc[Merge Strategies]
+** link:devon4j-schematic.adoc[devon4j Schematic] 
+** link:devon4ng-schematic.adoc[devon4ng Schematic] 
+** link:devon4net-schematic.adoc[devon4net Schematic] 
+** link:devon4node-schematic.adoc[devon4node Schematic] 

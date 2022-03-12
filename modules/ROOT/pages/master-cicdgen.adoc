@@ -1,0 +1,23 @@
+==cicdgen
+
+include::Home.adoc[leveloffset=2]
+
+== cicdgen CLI
+
+include::cicdgen-cli.adoc[leveloffset=3]
+
+include::usage-example.adoc[leveloffset=3]
+
+== cicdgen Schematics
+
+include::cicdgen-schematics.adoc[leveloffset=3]
+
+include::merge-strategies.adoc[leveloffset=4] 
+
+include::devon4j-schematic.adoc[leveloffset=3]
+
+include::devon4ng-schematic.adoc[leveloffset=3]
+
+include::devon4net-schematic.adoc[leveloffset=3]
+
+include::devon4node-schematic.adoc[leveloffset=3]
