@@ -1,5 +1,5 @@
-name: devon4j
-title: Devon4j
+name: cicdgen
+title: Cicdgen
 version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
