@@ -1,6 +1,5 @@
 name: cicdgen
 title: Cicdgen
 version: '1.0'
-start_page: cicdgen::Home.adoc
 nav:
 - modules/ROOT/nav.adoc
